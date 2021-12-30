@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @StylishYellow
+- 👀 I’m interested in Video-Games, Programming, Automation, Optimization and AI
+- 🌱 I’m currently enrolled in the 'Ecole Supérieure de l'Informatique' in Sidi-Bel-Abbes/Algeria
+- 💞️ I’m looking to learn by collaborating in various entry level projects
